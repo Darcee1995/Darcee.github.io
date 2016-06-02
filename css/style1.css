@@ -1,0 +1,36 @@
+body{
+
+	font-size: 14px;
+	color: black ;
+	font-family: orator std;
+	font-style: bold;
+	margin: 20px 70px 400px 20px;
+	display: inline-block;
+}
+ul li {
+	display: inline-block;
+	width:49%;
+}
+
+
+
+@media screen and (min-width: 300px) and (max-width: 600px){
+	body{
+		background-color: white;
+	}
+	main{
+		width: 70%;
+	}
+	aside{
+		width: 25%;
+	}
+	
+
+@media screen and (min-width: 0px) and (max-width: 570px){
+	body{
+		background-color: white;
+	}
+	main, aside, main ul li{
+		display: block;
+		width: 98%;
+	

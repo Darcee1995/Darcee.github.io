@@ -1,0 +1,87 @@
+body{
+	background-image: url('../image/001.jpg');
+	background-size: cover;
+
+	font-size: 14px;
+	color: black  ;
+	/*text-align: right ;*/
+	font-family: orator std;
+	font-style: bold;
+	/*margin: 240px 10px right;
+	padding-right: 60%*/
+}
+/*
+body{
+	min-width: 400px;
+	max-width: 1024px;
+	margin: 0 0px 0 0;
+	}*/
+/*
+nav, footer, main, aside, section, li{
+	border: solid px #000;
+	height: px;
+}
+*/
+/*nav, footer{
+	width: 100%;
+}*/
+
+/*main{
+	width: %;
+	height: auto;
+	display: inline-block;
+	text-align: %;*/
+/*}*/
+
+/*aside{
+	width:20%;
+	display: inline-block;
+	text-align: right;	
+}*/
+
+/*main ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+main ul li{
+	width: 80%;
+	display: inline-block;
+	background-color: ;*/
+}
+#section { 
+	width:85%;
+	display: inline-block; 
+}
+#banner {
+	width 15%
+	display: inline-block; 
+	float:right;
+	list-style-type: none;
+	margin: 280px 30px;
+}
+ul li{
+	list-style-type: none;
+}
+
+/*/*//*@media screen and (min-width: 300px) and (max-width: 600px){
+	body{
+		background-color: aqua;
+	/*}
+	main{
+		width: 70%;
+	}
+	aside{
+		width: 25%;*/
+	/*	}*/
+	
+
+/*@media screen and (min-width: 0px) and (max-width: 570px){
+	body{
+		background-color: blue;*/
+	/*}
+	main, aside, main ul li{
+		display: block;
+		width: 98%;
+	
